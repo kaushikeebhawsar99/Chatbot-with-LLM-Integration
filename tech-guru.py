@@ -52,7 +52,7 @@ for msg in st.session_state.messages:
     else:
         st.chat_message(msg["role"], avatar="🤖").write(msg["content"])
 
-# Define function to generate response with prompt engineering and spinner
+# Define a function to generate a response with prompt engineering and spinner
 def generate_response(prompt):
     # Keywords related to career guidance
     career_keywords = ["career", "job", "linkedin", "resume", "cv", "interview", "salary", "application", "networking", "cover letter", "job search", "job hunting", "job application", "professional", "employment"]
