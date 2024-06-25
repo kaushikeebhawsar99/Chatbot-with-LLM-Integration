@@ -2,6 +2,7 @@
 
 ### Youtube tutorial - https://www.youtube.com/watch?v=ixM8SwYN8Ic
 ### PDF Document - Chatbot with LLM Integration.pdf (available in GitHub repo)
+-----------------------------------------------------
 
 ## Overview
 
