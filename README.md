@@ -1,6 +1,7 @@
 # 🤖 Tech Guru - Your Career Guidance Expert!
 
 ### Youtube tutorial - https://www.youtube.com/watch?v=ixM8SwYN8Ic
+### Detailed document- Chatbot with LLM Integration.pdf
 
 ## Overview
 
