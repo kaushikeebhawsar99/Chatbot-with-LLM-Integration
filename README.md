@@ -1,7 +1,7 @@
 # 🤖 Tech Guru - Your Career Guidance Expert!
 
 ### Youtube tutorial - https://www.youtube.com/watch?v=ixM8SwYN8Ic
-### PDF Document (available in GitHub repo)- Chatbot with LLM Integration.pdf
+### PDF Document - Chatbot with LLM Integration.pdf (available in GitHub repo)
 
 ## Overview
 
@@ -20,7 +20,7 @@ The domain selected for this application is **Career Guidance**. The primary use
 ## Technology Stack
 
 - **Frontend**: Streamlit
-- **Backend**: Ollama API for LLM integration
+- **Backend**: Ollama for LLM integration
 - **Libraries**: PyPDF2 for PDF processing
 
 ## Installation & Setting up Enviroment
